@@ -108,7 +108,8 @@ int main() {
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/df840088-030e-484b-945d-7462c0b9f2f7)
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/9e572396-85cb-48e6-b524-060cd37e89e2" />
+
 
 
 ## Result:
